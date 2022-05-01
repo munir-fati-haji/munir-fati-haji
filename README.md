@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munir-fati-haji
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C, Python, Tensorflow, Keras, Embedded System
+- 🌱 I’m currently learning C, Python, Tensorflow, Keras, Embedded System, Latex
 - 💞️ I’m looking to collaborate on AI/ML/NN or any other Projects
 - 📫 How to reach me munir.fat.haji@gmail.com
 
