@@ -22,6 +22,8 @@ I work across the full stack, with the most hands-on experience in **Angular** a
 
 ---
 
+
+
 ## Tech
 
 | Area | Tools |
