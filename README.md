@@ -17,6 +17,7 @@ Building web applications, thinking in systems, always learning.
 
 I'm a software developer with roots in **mechanical engineering** and a master's in **robotics and automatic control**. That background gives me an edge when it comes to thinking about systems, constraints, and architecture — not just writing code that works, but understanding *why* it works.
 
+
 I work across the full stack, with the most hands-on experience in **Angular** and growing depth in **React**, backed by **Java Spring Boot** on the backend. My goal is to be a strong engineer regardless of the stack.
 
 ---
