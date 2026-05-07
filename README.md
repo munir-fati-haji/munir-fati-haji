@@ -53,9 +53,14 @@ Outside of code, I'm drawn to understanding how systems work at a deep level —
 
 <div align="center">
 
-![Munir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munir-fati-haji&show_icons=true&hide_border=true&theme=default)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munir-fati-haji&theme=default)](https://github.com/munir-fati-haji)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munir-fati-haji&layout=compact&hide_border=true&theme=default)
+<a href="https://github.com/munir-fati-haji">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munir-fati-haji&theme=default" height="180"/>
+</a>
+<a href="https://github.com/munir-fati-haji">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=munir-fati-haji&theme=default" height="180"/>
+</a>
 
 </div>
 
