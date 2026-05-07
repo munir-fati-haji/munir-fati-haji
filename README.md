@@ -2,7 +2,7 @@
 
 # Munir Fati Haji
 
-**Mechanical Engineer → Software Developer**  
+**Mechanical Engineer → Robotics and Automatic Control → Software Developer**  
 Building web applications, thinking in systems, always learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munir-fati-haji)
