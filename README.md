@@ -25,9 +25,9 @@ I work across the full stack, with the most hands-on experience in **Angular** a
 
 | Area | Tools |
 |------|-------|
-| **Frontend** | Angular (2+ yrs), React (5 mo), TypeScript, HTML, CSS |
-| **Backend** | Java, Spring Boot, REST APIs |
-| **Tools** | Git, GitHub, GitLab, VS Code |
+| **Frontend** | Angular (~3 Years), React (5 mo), TypeScript, HTML, CSS |
+| **Backend** | Java (5 mo), Spring Boot (5 mo), REST APIs |
+| **Tools** | Git, GitHub, GitLab, VS Code, Intellij Idea |
 | **Studying** | System design, distributed systems, AI/ML fundamentals |
 
 ---
