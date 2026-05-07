@@ -1,67 +1,66 @@
-# 👋 Hi, I'm Munir
+<div align="center">
 
-Software Developer | Frontend & Backend Engineer | AI Enthusiast
+# Munir Fati Haji
 
----
+**Mechanical Engineer → Software Developer**  
+Building web applications, thinking in systems, always learning.
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munir-fati-haji)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/munir-fati-haji)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:munir.fati.haji@gmail.com)
 
-I am a software developer with a background in **mechanical engineering** and a master’s degree in **robotics and automatic control**. I transitioned into software engineering and have experience working across both **frontend and backend development**.
-
-I have **2+ years of frontend development experience (Angular)** and **5 months of experience with React**, along with backend development experience using **Java and Spring Boot**.
-
-My main focus is building **scalable, efficient, and user-focused applications**, while continuously expanding my skills across different technologies and engineering principles.
-
-I enjoy learning new tools and frameworks quickly and aim to grow as a **software engineer who is not limited to a single stack**.
+</div>
 
 ---
 
-## 🧠 What I'm Currently Working On
+## About
 
-- Building modern web applications across different frontend technologies  
-- Developing backend services using **Java Spring Boot**  
-- Improving my understanding of **system design and scalable architectures**  
-- Exploring **AI and machine learning fundamentals**  
-- Expanding beyond frameworks into core engineering concepts  
+I'm a software developer with roots in **mechanical engineering** and a master's in **robotics and automatic control**. That background gives me an edge when it comes to thinking about systems, constraints, and architecture — not just writing code that works, but understanding *why* it works.
+
+I work across the full stack, with the most hands-on experience in **Angular** and growing depth in **React**, backed by **Java Spring Boot** on the backend. My goal is to be a strong engineer regardless of the stack.
 
 ---
 
-## 🛠️ Tech Experience
+## Tech
 
-- **Frontend:** Angular (2+ years), React (5 months), TypeScript, HTML, CSS  
-- **Backend:** Java, Spring Boot, REST APIs  
-- **Tools:** Git, GitHub, GitLab, VS Code  
-- **Focus Areas:** System design, clean architecture, scalable applications  
-- **Learning:** AI/ML fundamentals, distributed systems  
-
----
-
-## 🎯 Goals
-
-- Grow into a strong **software engineer (stack-independent mindset)**  
-- Build scalable and maintainable systems  
-- Improve system design and architecture skills  
-- Work on impactful real-world products  
-- Explore AI and intelligent system integration  
+| Area | Tools |
+|------|-------|
+| **Frontend** | Angular (2+ yrs), React (5 mo), TypeScript, HTML, CSS |
+| **Backend** | Java, Spring Boot, REST APIs |
+| **Tools** | Git, GitHub, GitLab, VS Code |
+| **Studying** | System design, distributed systems, AI/ML fundamentals |
 
 ---
 
-## 🌍 Beyond Code
+## Currently Working On
 
-Outside of development, I enjoy:
-- Understanding how systems work deeply  
-- Problem-solving and analytical thinking  
-- Improving productivity and focus  
-- Exploring technology that solves real-world problems  
-
----
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/munir-fati-haji  
-- LinkedIn: https://www.linkedin.com/in/munir-fati-haji  
-- Email: munir.fati.haji@gmail.com  
+- 🏗️ Deepening **React** and comparing patterns with my Angular experience
+- ⚙️ Building backend services with **Spring Boot**
+- 📐 Studying **system design** and scalable architecture
+- 🤖 Exploring **AI/ML fundamentals** and intelligent system integration
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Background
+
+My path into software wasn't straight — and I think that's a strength. An engineering degree teaches you to break down complex problems, work under constraints, and care about *how* things are built, not just *that* they're built. I bring that mindset to every project.
+
+Outside of code, I'm drawn to understanding how systems work at a deep level — whether that's software architecture, mechanical systems, or just asking "why does this work the way it does?"
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Munir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munir-fati-haji&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munir-fati-haji&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Always open to interesting projects and conversations. Feel free to reach out.</sub>
+</div>
