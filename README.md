@@ -7,6 +7,7 @@ Building web applications, thinking in systems, always learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munir-fati-haji)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/munir-fati-haji)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/munir-fati-haji)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:munir.fati.haji@gmail.com)
 
 </div>
@@ -18,6 +19,112 @@ Building web applications, thinking in systems, always learning.
 I'm a software developer with roots in **mechanical engineering** and a master's in **robotics and automatic control**. That background gives me an edge when it comes to thinking about systems, constraints, and architecture — not just writing code that works, but understanding *why* it works.
 
 I work across the full stack, with the most hands-on experience in **Angular** and growing depth in **React**, backed by **Java Spring Boot** on the backend. My goal is to be a strong engineer regardless of the stack.
+
+---
+
+## Experience
+
+<details style="margin-bottom: 20px;">
+<summary style="padding: 14px 16px; border-radius: 8px; background: #ffffff; border: 1px solid #d0d0d0; font-weight: 600; font-size: 16px; color: #1a1a1a; cursor: pointer; list-style: none;">
+💼 Professional Experience<span style="float:right; background:#f3f4f6; color:#1a1a1a; padding:4px 10px; border-radius:999px; font-weight:500; font-size:14px;">View details</span>
+</summary>
+
+<details style="margin-bottom: 16px; margin-left: 0;">
+<summary style="padding: 14px 16px; border-radius: 8px; background: #ffffff; border: 1px solid #d0d0d0; font-weight: 600; color: #1a1a1a; cursor: pointer; list-style: none;">
+<img src="https://res.cloudinary.com/hyld/image/upload/f_auto,dpr_auto,w_auto,q_auto,c_scale/v1/h2/1080x1080-hyland-social-image" alt="Hyland" width="50" style="vertical-align: middle; margin-right: 15px;" /> Hyland<span style="float:right; background:#f3f4f6; color:#1a1a1a; padding:4px 10px; border-radius:999px; font-weight:500; font-size:14px;">View details</span>
+</summary>
+<div style="padding: 14px 16px; margin-top: 10px; border-left: 4px solid #667eea;">
+
+**Developer 1** (May 2026 - Present) · Remote
+- Frontend developer
+
+</div>
+</details>
+
+<details style="margin-bottom: 16px; margin-left: 0;">
+<summary style="padding: 14px 16px; border-radius: 8px; background: #ffffff; border: 1px solid #d0d0d0; font-weight: 600; color: #1a1a1a; cursor: pointer; list-style: none;">
+<img src="https://www.bny.com/content/dam/bnymellon/images/about-us/bny-logo---2024-brand-update.png" alt="BNY" width="50" style="vertical-align: middle; margin-right: 15px;" /> BNY<span style="float:right; background:#f3f4f6; color:#1a1a1a; padding:4px 10px; border-radius:999px; font-weight:500; font-size:14px;">View details</span>
+</summary>
+<div style="padding: 14px 16px; margin-top: 10px; border-left: 4px solid #2a5298;">
+
+**Specialist Software Developer II** (Feb 2026 - Apr 2026)
+- Working on features using React and Java  
+- Used Redux for state management in existing applications  
+- Integrated frontend components with Java backend services via REST APIs  
+- Working with Apache Kafka consumers as part of backend data processing  
+
+**Associate Software Developer II** (Mar 2025 - Feb 2026)  
+- Led a solo migration of a large-scale Angular application from v13 to v21, significantly modernizing the codebase.  
+- Migrated the application to Angular standalone components, adopting Signals, signal-based inputs/outputs, modern control flow (@if, @for), inject().  
+- Developed new features, fixed bugs, and refactored legacy components to improve performance and readability.  
+- Implemented Web Socket based communication, replacing 10-second polling and improving real-time responsiveness.  
+- Maintained a mock server, removing backend dependency during development and reducing downtime.  
+- Improved shared components, services, and utilities, increasing team development efficiency.  
+- Utilized ESLint rules to maintain high code quality and best coding practices.  
+- Created and maintained clear technical documentation for ongoing and future development.  
+- Built and maintained REST APIs using Java, Spring Boot, and Oracle DB.  
+
+**Graduate Software Developer** (Aug 2023 - Mar 2025)  
+- Develop and maintain robust frontend solutions using Angular.  
+- Partner with UI/UX designers to create responsive and user-friendly interfaces.  
+- Diagnose and resolve issues in Angular applications to ensure smooth operation.  
+- Maintain code quality assurance through code reviews and ESLint to ensure adherence to coding standards.  
+- Participate in agile ceremonies and collaborate with cross-functional teams to deliver high-quality software on time.  
+- Contribute to continuous improvement initiatives to enhance development processes and team efficiency.  
+- Create and maintain technical documentation to support ongoing development and future enhancements.  
+- Write and maintain test cases using Jasmine and Karma to ensure comprehensive test coverage and application reliability.  
+
+</div>
+</details>
+
+</details>
+
+<details style="margin-bottom: 20px;">
+<summary style="padding: 14px 16px; border-radius: 8px; background: #ffffff; border: 1px solid #d0d0d0; font-weight: 600; color: #1a1a1a; cursor: pointer; list-style: none;">
+🚀 Projects<span style="float:right; background:#f3f4f6; color:#1a1a1a; padding:4px 10px; border-radius:999px; font-weight:500; font-size:14px;">View details</span>
+</summary>
+<div style="padding: 14px 16px; margin-top: 10px; border-left: 4px solid #2c3e50;">
+
+**Request System** (Freelance, Jan 2023 - Aug 2023)  
+- Built and maintained a request management web application using Angular, delivering scalable and maintainable UI features.  
+- Integrated 50+ REST APIs, improving data accuracy and reducing manual data entry by 50%.  
+- Developed bulk Excel upload functionality and AG Grid CSV export, reducing processing time from hours to minutes.  
+- Automated key workflows, reducing operational errors by 30%.  
+- Configured GitHub CI pipelines and Husky pre-commit hooks to enforce code quality and consistency.  
+- Implemented secure JWT-based authentication and role-based access control (RBAC).  
+
+</div>
+</details>
+
+<details>
+<summary style="padding: 14px 16px; border-radius: 8px; background: #ffffff; border: 1px solid #d0d0d0; font-weight: 600; color: #1a1a1a; cursor: pointer; list-style: none;">
+🎓 Education<span style="float:right; background:#f3f4f6; color:#1a1a1a; padding:4px 10px; border-radius:999px; font-weight:500; font-size:14px;">View details</span>
+</summary>
+
+<details style="margin-bottom: 16px; margin-left: 0;">
+<summary style="padding: 14px 16px; border-radius: 8px; background: #ffffff; border: 1px solid #d0d0d0; font-weight: 600; color: #1a1a1a; cursor: pointer; list-style: none;">
+<img src="https://edurank.org/assets/img/uni-logos/warsaw-university-of-technology-logo.png" alt="Warsaw University of Technology" width="50" style="vertical-align: middle; margin-right: 15px;" /> Warsaw University of Technology<span style="float:right; background:#f3f4f6; color:#1a1a1a; padding:4px 10px; border-radius:999px; font-weight:500; font-size:14px;">View details</span>
+</summary>
+<div style="padding: 14px 16px; margin-top: 10px; border-left: 4px solid #2c3e50;">
+
+**M.Sc. Robotics and Automatic Control** (GPA 4.69/5)  
+Warsaw University of Technology, Warsaw, Poland · Oct 2021 - Jun 2023
+
+</div>
+</details>
+
+<details style="margin-bottom: 16px; margin-left: 0;">
+<summary style="padding: 14px 16px; border-radius: 8px; background: #ffffff; border: 1px solid #d0d0d0; font-weight: 600; color: #1a1a1a; cursor: pointer; list-style: none;">
+<img src="https://tse2.mm.bing.net/th/id/OIP.l9UgiAad3QCxuhWsLonxJAHaFL?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Debre Berhan University" width="50" style="vertical-align: middle; margin-right: 15px;" /> Debre Berhan University<span style="float:right; background:#f3f4f6; color:#1a1a1a; padding:4px 10px; border-radius:999px; font-weight:500; font-size:14px;">View details</span>
+</summary>
+<div style="padding: 14px 16px; margin-top: 10px; border-left: 4px solid #2c3e50;">
+
+**B.Sc. Mechanical Engineering** (GPA 3.81/4)  
+Debre Berhan University, Debre Berhan, Ethiopia · Oct 2015 - Jan 2021
+
+</div>
+</details>
+</details>
 
 ---
 
